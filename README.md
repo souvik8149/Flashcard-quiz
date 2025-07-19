@@ -20,6 +20,9 @@ A beginner-friendly Python CLI app that quizzes you with 4 fun questions.
 3. Open terminal / command prompt in the folder.
 4. Run:
 
+```bash
+python flashcard_quiz.py
+```
 
 ---
 
